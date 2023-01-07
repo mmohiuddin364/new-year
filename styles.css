@@ -1,0 +1,182 @@
+.head{
+width: 1600px;
+height: 808px;
+left: 0px;
+top: 0px;
+background: url(images/banner/banner3.png);
+}
+.all{position: absolute;
+width: 525px;
+height: 228px;
+left: 845px;
+top: 216px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+text-align: right;
+
+color: #FFFFFF;
+
+}
+.para{
+    position: absolute;
+width: 494px;
+height: 78px;
+left: 876px;
+top: 468px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+text-align: right;
+
+color: #FFFFFF;
+
+}
+.btn{
+    position: absolute;
+width: 160px;
+height: 64px;
+left: 1210px;
+top: 578px;
+color: #005FAC;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+border-radius: 20px;
+}
+
+.div3{
+    position:static;
+width: 416px;
+height: 400px;
+left: 862px;
+top: 1178px;
+}
+
+.my{
+    position: absolute;
+width: 288px;
+height: 94px;
+left: 862px;
+top: 978px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 47px;
+
+/* Dark 01 */
+
+color: #151414;
+
+}
+.para2{
+    position: absolute;
+width: 516px;
+height: 304px;
+left: 862px;
+top: 1180px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+/* Dark 02 */
+
+color: #444343;
+
+}
+.check1{
+    position: absolute;
+width: 493.7px;
+height: 34.32px;
+left: 900px;
+top: 1291px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+/* Dark 02 */
+
+color: #444343;
+
+}
+.check2{
+    position: absolute;
+width: 307.42px;
+height: 34.32px;
+left: 900px;
+top: 1330px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+/* Dark 02 */
+
+color: #444343;
+}
+.check3{
+    position: absolute;
+width: 426.31px;
+height: 34.32px;
+left: 900px;
+top: 1374px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+/* Dark 02 */
+
+color: #444343;
+
+}
+.check4{
+    position: absolute;
+width: 333.84px;
+height: 34.32px;
+left: 900px;
+top: 1420px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+/* Dark 02 */
+
+color: #444343;
+
+}
